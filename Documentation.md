@@ -410,12 +410,12 @@ As part of the **NetworkWalks Online Internship**, I successfully completed six 
 
 | Lab | Status |
 |---|---|
-| Lab 1 | ✅ Completed |
-| Lab 2 | ✅ Completed |
 | Lab 3 | ✅ Completed |
 | Lab 4 | ✅ Completed |
 | Lab 5 | ✅ Completed |
 | Lab 6 | ✅ Completed |
+| Lab 7 | ✅ Completed |
+| Lab 8 | ✅ Completed |
 
 <img width="601" height="669" alt="WhatsApp Image 2026-10-30 at 19 52 07" src="https://github.com/user-attachments/assets/d2fa974b-2b20-45e7-b1fe-1d3fb003989e" />
 
